@@ -788,7 +788,7 @@ public class CoreLegion
         Adv.BuyItem("underworld", 216, "Undead Champion");
     }
 
-    public void ObsidianRock(int quant = 10)
+    public void ObsidianRock(int quant = 666)
     {
         if (Core.CheckInventory("Obsidian Rock", quant))
             return;
@@ -800,6 +800,7 @@ public class CoreLegion
 
         Core.FarmingLogger("Obsidian Rock", quant);
         Core.AddDrop("Obsidian Rock");
+        Core.AddDrop("Oath's Reaper");
         if (!Core.IsMember)
         {
             Core.Logger("Using Non-Member Method");
@@ -815,6 +816,7 @@ public class CoreLegion
             else Core.KillMonster("firestorm", "r8", "Left", "Firestorm Hatchling", "Obsidian Deposit", 10, log: false);
 
             Bot.Wait.ForPickup("Obsidian Rock");
+            Bot.Wait.ForPickup("Reaper's Oath");
         }
         Core.CancelRegisteredQuests();
     }
