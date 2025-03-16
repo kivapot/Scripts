@@ -6,7 +6,7 @@
       "null"
     ],
     "path": "CoreAdvanced.cs",
-    "size": 147874,
+    "size": 147958,
     "fileName": "CoreAdvanced.cs",
     "downloadUrl": "https://raw.githubusercontent.com/BrenoHenrike/Scripts/Skua/CoreAdvanced.cs"
   },
@@ -39,7 +39,7 @@
       "null"
     ],
     "path": "CoreBots.cs",
-    "size": 346282,
+    "size": 346954,
     "fileName": "CoreBots.cs",
     "downloadUrl": "https://raw.githubusercontent.com/BrenoHenrike/Scripts/Skua/CoreBots.cs"
   },
@@ -608,7 +608,7 @@
       "null"
     ],
     "path": "Legion/CoreLegion.cs",
-    "size": 37534,
+    "size": 37535,
     "fileName": "CoreLegion.cs",
     "downloadUrl": "https://raw.githubusercontent.com/BrenoHenrike/Scripts/Skua/Legion/CoreLegion.cs"
   },
@@ -640,7 +640,7 @@
       "luxuria"
     ],
     "path": "Legion/HeadOfTheLegionBeast.cs",
-    "size": 9487,
+    "size": 10599,
     "fileName": "HeadOfTheLegionBeast.cs",
     "downloadUrl": "https://raw.githubusercontent.com/BrenoHenrike/Scripts/Skua/Legion/HeadOfTheLegionBeast.cs"
   },
@@ -9475,7 +9475,7 @@
       "exanima"
     ],
     "path": "Legion/Various/DageChallengeMerge.cs",
-    "size": 7404,
+    "size": 7406,
     "fileName": "DageChallengeMerge.cs",
     "downloadUrl": "https://raw.githubusercontent.com/BrenoHenrike/Scripts/Skua/Legion/Various/DageChallengeMerge.cs"
   },
@@ -13968,7 +13968,7 @@
       "null"
     ],
     "path": "Hollowborn/HollowbornChaosEnvoy/CoreHollowbornChaosEnvoy.cs",
-    "size": 33175,
+    "size": 31233,
     "fileName": "CoreHollowbornChaosEnvoy.cs",
     "downloadUrl": "https://raw.githubusercontent.com/BrenoHenrike/Scripts/Skua/Hollowborn/HollowbornChaosEnvoy/CoreHollowbornChaosEnvoy.cs"
   },
@@ -15517,7 +15517,7 @@
       "dage-challenge-story"
     ],
     "path": "Story/Legion/DageChallengeStory.cs",
-    "size": 2551,
+    "size": 2553,
     "fileName": "DageChallengeStory.cs",
     "downloadUrl": "https://raw.githubusercontent.com/BrenoHenrike/Scripts/Skua/Story/Legion/DageChallengeStory.cs"
   },
